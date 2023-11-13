@@ -1,0 +1,129 @@
+Number of Customers: 30
+Number of stairs: 13
+customer 0 waiting to go up
+customer 0 going up
+customer 1 waiting to go up
+customer 1 going up
+customer 2 waiting to go up
+customer 2 going up
+customer 3 waiting to go down
+customer 4 waiting to go up
+customer 4 going up
+customer 5 waiting to go down
+customer 6 waiting to go up
+customer 6 going up
+customer 7 waiting to go up
+customer 7 going up
+customer 8 waiting to go up
+customer 8 going up
+customer 9 waiting to go up
+customer 9 going up
+customer 10 waiting to go up
+customer 10 going up
+customer 11 waiting to go up
+customer 11 going up
+customer 12 waiting to go down
+customer 13 waiting to go up
+customer 13 going up
+customer 14 waiting to go down
+customer 15 waiting to go up
+customer 15 going up
+customer 16 waiting to go up
+customer 16 going up
+customer 17 waiting to go down
+customer 18 waiting to go up
+customer 18 is waiting for a position to go up since stair has no space
+customer 19 waiting to go up
+customer 20 waiting to go up
+customer 21 waiting to go up
+customer 22 waiting to go down
+customer 23 waiting to go up
+customer 24 waiting to go up
+customer 25 waiting to go down
+customer 26 waiting to go up
+customer 27 waiting to go up
+customer 28 waiting to go down
+customer 29 waiting to go down
+customer 0 finished going up
+customer 1 finished going up
+customer 18 going up
+customer 19 going up
+customer 20 is waiting for a position to go up since stair has no space
+customer 2 finished going up
+customer 20 going up
+customer 21 is waiting for a position to go up since stair has no space
+customer 4 finished going up
+customer 21 going up
+customer 23 is waiting for a position to go up since stair has no space
+customer 6 finished going up
+customer 23 going up
+customer 7 finished going up
+customer 24 going up
+customer 26 is waiting for a position to go up since stair has no space
+customer 8 finished going up
+customer 26 going up
+customer 9 finished going up
+customer 27 going up
+customer 10 finished going up
+customer 11 finished going up
+customer 13 finished going up
+customer 15 finished going up
+customer 16 finished going up
+customer 18 finished going up
+customer 19 finished going up
+customer 20 finished going up
+customer 21 finished going up
+customer 23 finished going up
+customer 26 finished going up
+customer 24 finished going up
+customer 27 finished going up
+stair direction changes to down
+customer 3 going down
+customer 5 going down
+customer 12 going down
+customer 14 going down
+customer 17 going down
+customer 22 going down
+customer 25 going down
+customer 28 going down
+customer 29 going down
+customer 3 finished going down
+customer 5 finished going down
+customer 14 finished going down
+customer 12 finished going down
+customer 22 finished going down
+customer 25 finished going down
+customer 17 finished going down
+customer 28 finished going down
+customer 29 finished going down
+Crossing direction reset
+Turnaround time for index 0 = 2406.000000
+Turnaround time for index 1 = 2351.000000
+Turnaround time for index 2 = 2412.000000
+Turnaround time for index 3 = 3945.000000
+Turnaround time for index 4 = 2506.000000
+Turnaround time for index 5 = 3904.000000
+Turnaround time for index 6 = 2564.000000
+Turnaround time for index 7 = 2529.000000
+Turnaround time for index 8 = 2587.000000
+Turnaround time for index 9 = 2576.000000
+Turnaround time for index 10 = 2538.000000
+Turnaround time for index 11 = 2537.000000
+Turnaround time for index 12 = 3352.000000
+Turnaround time for index 13 = 2380.000000
+Turnaround time for index 14 = 3140.000000
+Turnaround time for index 15 = 2234.000000
+Turnaround time for index 16 = 2197.000000
+Turnaround time for index 17 = 2980.000000
+Turnaround time for index 18 = 2072.000000
+Turnaround time for index 19 = 2003.000000
+Turnaround time for index 20 = 2030.000000
+Turnaround time for index 21 = 1999.000000
+Turnaround time for index 22 = 2564.000000
+Turnaround time for index 23 = 1913.000000
+Turnaround time for index 24 = 1892.000000
+Turnaround time for index 25 = 2322.000000
+Turnaround time for index 26 = 1746.000000
+Turnaround time for index 27 = 1736.000000
+Turnaround time for index 28 = 2199.000000
+Turnaround time for index 29 = 2399.000000
